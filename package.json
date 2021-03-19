@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@sentry/react-native": "^2.3.0",
+    "@sentry/wizard": "^1.2.2",
     "react": "17.0.1",
     "react-native": "0.64.0"
   },
